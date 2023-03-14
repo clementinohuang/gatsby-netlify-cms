@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Amplify & Elevate
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Striving to deliver exceptional results
+subheading: We bring your vision to the world
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Parnasse
+  description: "At Parnasse, our mission is to elevate the visibility and impact
+    of artists and their work by providing top-tier PR services rooted in a deep
+    understanding of the art world. We are committed to fostering meaningful
+    relationships between artists and the media, curators, collectors, and other
+    key stakeholders in the art industry. "
+description: Through strategic communication campaigns tailored to each artist's
+  unique voice and vision, we aim to help them reach new audiences, build their
+  reputations, and ultimately achieve their artistic goals. Our passion for art
+  and dedication to our clients drives us to go above and beyond in our efforts,
+  always striving to deliver exceptional results that exceed expectations.
 intro:
   blurbs:
     - image: /img/coffee.png
