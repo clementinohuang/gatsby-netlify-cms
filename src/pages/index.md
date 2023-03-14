@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Amplify & Elevate
-image: /img/the-ai-model-we-make.-1-.png
+image: /img/concept-art.jpg
 heading: Striving to deliver exceptional results
 subheading: We bring your vision to the world
 mainpitch:
