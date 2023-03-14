@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Amplify & Elevate
-image: /img/home-jumbotron.jpg
+image: https://cdn.discordapp.com/attachments/997271816672382996/1084436307058639010/Frederic_Rimbaud_silence_by_Erwin_Olaf_7aae2d63-5db6-4e8b-9b02-6438e88c638f.png
 heading: Striving to deliver exceptional results
 subheading: We bring your vision to the world
 mainpitch:
